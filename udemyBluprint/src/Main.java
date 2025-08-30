@@ -18,6 +18,50 @@ class User {
    }
 }
 
+class student extends User{
+    int id;
+    String name;
+    String email;
+    String password;
+}
+
+class  instructor extends User{
+    int id;
+    String name;
+    String email;
+    String password;
+}
+
+class  Couser {
+    int coursID;
+    String coursename;
+    String description;
+    String price;
+    String instructor;
+    String studens;
+
+}
+
+class Lecture{
+
+}
+
+class  Payment {
+
+}
+
+class Review{
+}
+
+class  Catagory {
+
+}
+
+class  Certificate {
+
+}
+
+
 public class Main {
     public static void main(String[] args) {
         User U1 = new User(1, "Marsel", 20, "jawa@gamil.com", "pulupulu");
