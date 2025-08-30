@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BluePrintUdemy.iml" filepath="$PROJECT_DIR$/.idea/BluePrintUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemyBluprint/udemyBluprint.iml" filepath="$PROJECT_DIR$/udemyBluprint/udemyBluprint.iml" />
+    </modules>
+  </component>
+</project>
