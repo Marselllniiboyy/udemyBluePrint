@@ -8,7 +8,7 @@ class User {
     String password;
    public User(int id ,String name, int age, String email, String password) {
        this.id = id;
-       this.name    = name;
+       this.name = name;
        this.age = age;
        this.email = email;
        this.password=password;
@@ -18,49 +18,49 @@ class User {
    }
 }
 
-class student extends User{
-    int id;
-    String name;
-    String email;
-    String password;
-}
-
-class  instructor extends User{
-    int id;
-    String name;
-    String email;
-    String password;
-}
-
-class  Couser {
-    int coursID;
-    String coursename;
-    String description;
-    String price;
-    String instructor;
-    String studens;
-
-}
-
-class Lecture{
-
-}
-
-class  Payment {
-
-}
-
-class Review{
-}
-
-class  Catagory {
-
-}
-
-class  Certificate {
-
-}
-
+//class student extends User{
+//    int id;
+//    String name;
+//    String email;
+//    String password;
+//}
+//
+//class  instructor extends User{
+//    int id;
+//    String name;
+//    String email;
+//    String password;
+//}
+//
+//class  Couser {
+//    int coursID;
+//    String coursename;
+//    String description;
+//    String price;
+//    String instructor;
+//    String studens;
+//
+//}
+//
+//class Lecture{
+//
+//}
+//
+//class  Payment {
+//
+//}
+//
+//class Review{
+//}
+//
+//class  Catagory {
+//
+//}
+//
+//class  Certificate {
+//
+//}
+//
 
 public class Main {
     public static void main(String[] args) {
